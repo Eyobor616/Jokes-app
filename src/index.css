@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-radial-artistic {
+    background: radial-gradient(circle at 10% 20%, #1a1a1a 0%, #050505 100%);
+  }
+  .brutalist-shadow-yellow {
+    box-shadow: 6px 6px 0px #FACC15;
+  }
+  .brutalist-shadow-white {
+    box-shadow: 6px 6px 0px #FFFFFF;
+  }
+  .brutalist-shadow-sm {
+    box-shadow: 4px 4px 0px #FACC15;
+  }
+  .writing-vertical {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+  }
+}

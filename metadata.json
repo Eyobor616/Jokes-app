@@ -1,0 +1,6 @@
+{
+  "name": "Funny Joke Generator",
+  "description": "A clean, funny joke telling app with instant next joke fetching, punchline reveals, categories, and ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
